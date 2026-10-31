@@ -40,7 +40,7 @@ The Customer Accounts and User Accounts pages use static PHP arrays as temporary
 
 1. Clone the repository:
 
-   git clone https://github.com/YOUR-USERNAME/abacan-tfa5.git
+   git clone https://github.com/iyahabacan26-dot/abacan-tfa5.git
 
 2. Navigate to the project folder:
 
